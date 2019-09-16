@@ -1,0 +1,33 @@
+body{
+	background-image: url("..//images/Noice.png");
+	font-family: sans-serif;
+}
+.bla{
+	padding-left: 410px;
+}
+.img2{
+	width:100%;
+	height: auto;
+	padding-top: 30px;
+}
+article{
+	overflow: hidden;
+}
+.blog-post > p{
+	text-align: justify;
+	font-size: 16px;
+	line-height: 22px;
+	word-spacing: 3px;
+	font-family: sans-serif;
+
+}
+.divider {
+	margin-top: 25px;
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+	clear: both;
+}
+.tutorial{
+	
+}
